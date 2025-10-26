@@ -1,2 +1,2 @@
 # ML-Portfolio
-Мои проекты по машинному обучению в Jupyter Notebook
+My Machine Learning Projects in Jupyter Notebook
