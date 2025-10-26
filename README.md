@@ -1,6 +1,6 @@
 # ML-Portfolio
 My Machine Learning Projects in Jupyter Notebook
-#Project 1: is an example of working with data, their preparation and data analysis by plotting graphs and testing hypotheses 
+#Project 1: is an example of working with data, their preparation and data analysis by plotting graphs and testing hypotheses\n
 #Project 2: an example of a project where a regression problem is solved using my own written function to fill in the gaps through machine learning 
 #Project 3: is an example of a task with a time series
 #Project 4: example of working with text 
